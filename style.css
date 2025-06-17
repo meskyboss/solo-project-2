@@ -1,0 +1,42 @@
+body {
+    width: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #121212;
+    display: flex;
+    margin: o auto;
+}
+
+.img-container {
+    margin: 5px 40px 20px 10px;
+    
+}
+
+.text-container {
+    margin-right: -580px;
+    margin-bottom: 10px;
+    width: fit-content;
+    font-size: x-large;
+    font-weight: 700px;
+}
+
+.book-cover {
+    width: 500px;
+    box-shadow: 0px 0px 2px black;
+
+
+}
+.paragraph {
+    margin-right: 20px;
+}
+
+.open-sentence {
+    font-weight: bold;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.ratings {
+    width: 180px
+}
